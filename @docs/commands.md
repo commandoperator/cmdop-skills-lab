@@ -8,7 +8,7 @@ Use the `Skill` class and `@skill.command` decorator:
 # src/my_skill/_skill.py
 from cmdop_skill import Arg, Skill
 
-skill = Skill(name="my-skill", description="Does things", version="0.1.0")
+skill = Skill()  # name, version, description from pyproject.toml
 
 @skill.command
 async def check(

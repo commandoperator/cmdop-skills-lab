@@ -83,6 +83,5 @@ stats: ## Show email statistics
 # Release
 # ---------------------------------------------------------------------------
 
-release: ## Build and publish to PyPI
-	python -m build
-	twine upload dist/*
+release: ## Release via CMDOP skill registry
+	cmdop-skill release .

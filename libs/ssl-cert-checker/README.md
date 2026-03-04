@@ -1,5 +1,9 @@
 # ssl-cert-checker
 
+> **[CMDOP Skill](https://cmdop.com/skills/ssl-cert-checker/)** — install and use via [CMDOP agent](https://cmdop.com):
+> ```
+> cmdop-skill install ssl-cert-checker
+> ```
 Check SSL certificate expiry for one or more domains. CMDOP skill + standalone Python library.
 
 ## Install

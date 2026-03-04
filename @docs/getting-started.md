@@ -52,13 +52,12 @@ Without the scaffold, the minimum required files are `skill/config.py` and `pypr
 from cmdop_skill import SkillCategory, SkillConfig
 
 config = SkillConfig(
-    name="my-skill",
     category=SkillCategory.SECURITY,
     visibility="public",
 )
 ```
 
-Fields `version`, `description`, `requires`, `tags`, and `repository_url` are auto-filled from `pyproject.toml` if not set in config.
+`name`, `version`, `description`, `requires`, `tags`, and `repository_url` are all auto-resolved from `pyproject.toml`. Only skill-specific fields (`category`, `visibility`, `changelog`) need to be set here.
 
 ### Categories
 

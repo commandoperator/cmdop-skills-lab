@@ -20,10 +20,4 @@ cmdop-skill init
 
 ## Reference Skills
 
-| Skill | Category | Description |
-|---|---|---|
-| `ssl-cert-checker` | security | Check SSL certificate expiry dates |
-| `tg-notify` | communication | Telegram notifications |
-| `hello-world` | other | Demo skill (scaffold example) |
-
 See `libs/` for full implementations.

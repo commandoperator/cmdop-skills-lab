@@ -1,7 +1,6 @@
-from cmdop_skill import SkillCategory, SkillConfig
+from cmdop_skill import SkillConfig
 
-config = SkillConfig(
-    name="llm-html",
-    category=SkillCategory.WEB,
-    visibility="public",
-)
+# name, version, description — auto-resolved from pyproject.toml
+# category, tags, visibility — auto-determined by server during publish
+
+config = SkillConfig()

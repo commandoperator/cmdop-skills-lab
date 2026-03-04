@@ -7,11 +7,7 @@ from cmdop_skill import Arg, Skill
 from ssl_cert_checker._checker import check_certs
 from ssl_cert_checker._models import status_emoji
 
-skill = Skill(
-    name="ssl-cert-checker",
-    description="Check SSL certificate expiry for one or more domains",
-    version="2026.3.4",
-)
+skill = Skill()
 
 
 @skill.command

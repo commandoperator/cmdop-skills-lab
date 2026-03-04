@@ -1,10 +1,6 @@
-from cmdop_skill import SkillCategory, SkillConfig
+from cmdop_skill import SkillConfig
 
-# version, description, requires, tags, repository_url
-# all automatically pulled from pyproject.toml
+# name, version, description — auto-resolved from pyproject.toml
+# category, tags, visibility — auto-determined by server during publish
 
-config = SkillConfig(
-    name="ssl-cert-checker",
-    category=SkillCategory.SECURITY,
-    visibility="public",
-)
+config = SkillConfig()
