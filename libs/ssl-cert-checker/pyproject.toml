@@ -1,0 +1,81 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "ssl-cert-checker"
+version = "0.1.2"
+description = "Check SSL certificate expiry for one or more domains"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.10"
+authors = [
+    { name = "CMDOP Team", email = "team@cmdop.com" }
+]
+keywords = [
+    "ssl",
+    "certificate",
+    "tls",
+    "expiry",
+    "monitoring",
+    "cmdop",
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: System :: Networking :: Monitoring",
+    "Typing :: Typed",
+]
+
+dependencies = [
+    "cmdop",
+    "cmdop-skill",
+    "pydantic>=2.12.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "pytest-cov>=4.0.0",
+    "ruff>=0.1.0",
+    "mypy>=1.0.0",
+]
+
+[project.scripts]
+ssl-cert-checker = "ssl_cert_checker._skill:main"
+
+[project.urls]
+Homepage = "https://cmdop.com/skills/ssl-cert-checker/"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/ssl_cert_checker"]
+
+[tool.hatch.build.targets.sdist]
+include = [
+    "src/",
+    "README.md",
+    "pyproject.toml",
+    "LICENSE",
+]
+
+[tool.ruff]
+target-version = "py310"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "N", "W", "UP", "B", "C4", "SIM"]
+ignore = ["E501"]
+
+[tool.mypy]
+python_version = "3.10"
+strict = true
+warn_return_any = true
+warn_unused_ignores = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
