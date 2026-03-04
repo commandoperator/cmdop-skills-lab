@@ -216,7 +216,7 @@ dev = [
 
 [[package]]
 name = "cmdop-sdkrouter"
-version = "0.1.0"
+version = "0.1.1"
 source = { editable = "." }
 dependencies = [
     { name = "cmdop" },
@@ -248,7 +248,7 @@ provides-extras = ["dev"]
 
 [[package]]
 name = "cmdop-skill"
-version = "2026.3.5"
+version = "2026.3.5.1"
 source = { editable = "../../../../cmdop_sdk/python/cmdop_skill" }
 dependencies = [
     { name = "cmdop" },

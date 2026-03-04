@@ -127,7 +127,7 @@ dev = [
 
 [[package]]
 name = "cmdop-coder"
-version = "0.1.4"
+version = "0.1.6"
 source = { editable = "." }
 dependencies = [
     { name = "cmdop" },
@@ -161,7 +161,7 @@ provides-extras = ["dev"]
 
 [[package]]
 name = "cmdop-skill"
-version = "2026.3.5"
+version = "2026.3.5.1"
 source = { editable = "../../../../cmdop_sdk/python/cmdop_skill" }
 dependencies = [
     { name = "cmdop" },
