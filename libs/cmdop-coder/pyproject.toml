@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "cmdop-coder"
-version = "0.1.2"
+version = "0.1.5"
 description = "CMDOP skill — code analysis with tree-sitter AST parsing"
 readme = "README.md"
 license = "MIT"
@@ -59,3 +59,8 @@ ignore = ["E501"]
 [tool.pytest.ini_options]
 asyncio_mode = "auto"
 testpaths = ["tests"]
+
+[tool.uv.sources]
+cmdop-skill = { path = "/Users/markinmatrix/Documents/htdocs/@CARAPIS/encar_parser_new/@projects/cmdop/projects/software/cmdop_sdk/python/cmdop_skill", editable = true }
+cmdop = { path = "/Users/markinmatrix/Documents/htdocs/@CARAPIS/encar_parser_new/@projects/cmdop/projects/software/cmdop_sdk/python/cmdop", editable = true }
+

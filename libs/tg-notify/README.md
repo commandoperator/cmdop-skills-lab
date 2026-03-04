@@ -1,5 +1,9 @@
 # tg-notify
 
+> **[CMDOP Skill](https://cmdop.com/skills/tg-notify/)** — install and use via [CMDOP agent](https://cmdop.com):
+> ```
+> cmdop-skill install tg-notify
+> ```
 Rate-limited Telegram notifications with priority queue.
 
 ## Install

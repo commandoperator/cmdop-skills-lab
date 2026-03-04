@@ -79,8 +79,8 @@ wheels = [
 
 [[package]]
 name = "cmdop"
-version = "2026.3.3.1"
-source = { registry = "https://pypi.org/simple" }
+version = "2026.3.5"
+source = { editable = "../../../../cmdop_sdk/python/cmdop" }
 dependencies = [
     { name = "beautifulsoup4" },
     { name = "click" },
@@ -93,14 +93,41 @@ dependencies = [
     { name = "rich" },
     { name = "textual" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/8e/48/292c78d87288778373ddf20606c4bb0cd601471cb6f8d0e03d01c9c83f76/cmdop-2026.3.3.1.tar.gz", hash = "sha256:4b26e245b2fef60d87cfa2544337edba8329f6c52c84508a5dde9266cb0aca07", size = 250815, upload_time = "2026-03-03T13:26:38.993Z" }
-wheels = [
-    { url = "https://files.pythonhosted.org/packages/6a/d8/0c1d7cef976f0243b4c4ebaebd1d1e2d8ddd9d00e1540351bae14586f7a5/cmdop-2026.3.3.1-py3-none-any.whl", hash = "sha256:255f0a56914d56dac670e6cac5648c371c7b7309d246bc4de6363127a1e9544e", size = 399401, upload_time = "2026-03-03T13:26:36.811Z" },
+
+[package.metadata]
+requires-dist = [
+    { name = "beautifulsoup4", specifier = ">=4.14.3" },
+    { name = "click", specifier = ">=8.1.0" },
+    { name = "grpcio", specifier = ">=1.78.0" },
+    { name = "grpcio-tools", marker = "extra == 'dev'", specifier = ">=1.78.0" },
+    { name = "httpx", specifier = ">=0.27.0" },
+    { name = "mypy", marker = "extra == 'dev'", specifier = ">=1.8.0" },
+    { name = "protobuf", specifier = ">=5.29.0" },
+    { name = "pydantic", specifier = ">=2.5.0" },
+    { name = "pydantic-settings", specifier = ">=2.0.0" },
+    { name = "pyte", specifier = ">=0.8.2" },
+    { name = "pytest", marker = "extra == 'dev'", specifier = ">=8.0.0" },
+    { name = "pytest-asyncio", marker = "extra == 'dev'", specifier = ">=0.23.0" },
+    { name = "pytest-cov", marker = "extra == 'dev'", specifier = ">=4.1.0" },
+    { name = "rich", specifier = ">=13.0.0" },
+    { name = "ruff", marker = "extra == 'dev'", specifier = ">=0.1.0" },
+    { name = "textual", specifier = ">=0.50.0" },
+]
+provides-extras = ["dev"]
+
+[package.metadata.requires-dev]
+dev = [
+    { name = "grpcio-tools", specifier = ">=1.78.0" },
+    { name = "mypy", specifier = ">=1.8.0" },
+    { name = "pytest", specifier = ">=8.0.0" },
+    { name = "pytest-asyncio", specifier = ">=0.23.0" },
+    { name = "pytest-cov", specifier = ">=4.1.0" },
+    { name = "ruff", specifier = ">=0.1.0" },
 ]
 
 [[package]]
 name = "cmdop-coder"
-version = "0.1.0"
+version = "0.1.4"
 source = { editable = "." }
 dependencies = [
     { name = "cmdop" },
@@ -120,8 +147,8 @@ dev = [
 
 [package.metadata]
 requires-dist = [
-    { name = "cmdop" },
-    { name = "cmdop-skill" },
+    { name = "cmdop", editable = "../../../../cmdop_sdk/python/cmdop" },
+    { name = "cmdop-skill", editable = "../../../../cmdop_sdk/python/cmdop_skill" },
     { name = "pydantic", specifier = ">=2.0" },
     { name = "pytest", marker = "extra == 'dev'", specifier = ">=7.0.0" },
     { name = "pytest-asyncio", marker = "extra == 'dev'", specifier = ">=0.21.0" },
@@ -134,8 +161,8 @@ provides-extras = ["dev"]
 
 [[package]]
 name = "cmdop-skill"
-version = "2026.3.4.5"
-source = { registry = "https://pypi.org/simple" }
+version = "2026.3.5"
+source = { editable = "../../../../cmdop_sdk/python/cmdop_skill" }
 dependencies = [
     { name = "cmdop" },
     { name = "httpx" },
@@ -144,10 +171,22 @@ dependencies = [
     { name = "rich" },
     { name = "typer" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/1e/ae/2d844823a07d5ddd80fed212534b9623897341bc6edefee2455900919bdd/cmdop_skill-2026.3.4.5.tar.gz", hash = "sha256:97d8f2343337f390599bc156d27d629bce85735b97d6879dc9c9f7a6e9c93d09", size = 47300, upload_time = "2026-03-04T06:16:27.591Z" }
-wheels = [
-    { url = "https://files.pythonhosted.org/packages/a0/87/eaac956a51b52ff378472ad4335bb111f9c5b89c143b044fe2dc6281a8d7/cmdop_skill-2026.3.4.5-py3-none-any.whl", hash = "sha256:7e77eff9002445ffea36e20da5b909768c8a3ab283caf62308b8f2d094987654", size = 67769, upload_time = "2026-03-04T06:16:26.127Z" },
+
+[package.metadata]
+requires-dist = [
+    { name = "cmdop" },
+    { name = "httpx", specifier = ">=0.28.1" },
+    { name = "jinja2", specifier = ">=3.1.0" },
+    { name = "mypy", marker = "extra == 'dev'", specifier = ">=1.0.0" },
+    { name = "pydantic", specifier = ">=2.12.0" },
+    { name = "pytest", marker = "extra == 'dev'", specifier = ">=7.0.0" },
+    { name = "pytest-asyncio", marker = "extra == 'dev'", specifier = ">=0.21.0" },
+    { name = "pytest-cov", marker = "extra == 'dev'", specifier = ">=4.0.0" },
+    { name = "rich", specifier = ">=14.0.0" },
+    { name = "ruff", marker = "extra == 'dev'", specifier = ">=0.1.0" },
+    { name = "typer", specifier = ">=0.15.0" },
 ]
+provides-extras = ["dev"]
 
 [[package]]
 name = "colorama"

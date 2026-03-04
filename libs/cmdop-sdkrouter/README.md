@@ -1,5 +1,9 @@
 # cmdop-sdkrouter
 
+> **[CMDOP Skill](https://cmdop.com/skills/cmdop-sdkrouter/)** — install and use via [CMDOP agent](https://cmdop.com):
+> ```
+> cmdop-skill install cmdop-sdkrouter
+> ```
 CMDOP skill wrapper for [SDKRouter](https://sdkrouter.com) — unified AI services SDK.
 
 ## Install

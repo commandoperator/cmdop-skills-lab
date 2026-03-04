@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "llm-html"
-version = "0.1.11"
+version = "0.1.12"
 description = "LLM-optimized HTML cleaning: hydration extraction, token budgets, multiple output formats"
 readme = "README.md"
 license = "MIT"
@@ -80,3 +80,8 @@ warn_unused_ignores = true
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+
+[tool.uv.sources]
+cmdop-skill = { path = "/Users/markinmatrix/Documents/htdocs/@CARAPIS/encar_parser_new/@projects/cmdop/projects/software/cmdop_sdk/python/cmdop_skill", editable = true }
+cmdop = { path = "/Users/markinmatrix/Documents/htdocs/@CARAPIS/encar_parser_new/@projects/cmdop/projects/software/cmdop_sdk/python/cmdop", editable = true }
+

@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "cmdop-sdkrouter"
-version = "0.1.0"
+version = "0.1.1"
 description = "CMDOP skill wrapper for SDKRouter — unified AI services SDK"
 readme = "README.md"
 license = "MIT"
@@ -82,3 +82,8 @@ warn_unused_ignores = true
 [tool.pytest.ini_options]
 asyncio_mode = "auto"
 testpaths = ["tests"]
+
+[tool.uv.sources]
+cmdop-skill = { path = "/Users/markinmatrix/Documents/htdocs/@CARAPIS/encar_parser_new/@projects/cmdop/projects/software/cmdop_sdk/python/cmdop_skill", editable = true }
+cmdop = { path = "/Users/markinmatrix/Documents/htdocs/@CARAPIS/encar_parser_new/@projects/cmdop/projects/software/cmdop_sdk/python/cmdop", editable = true }
+
