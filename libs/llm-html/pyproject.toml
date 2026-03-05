@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "llm-html"
-version = "0.1.12"
+version = "0.1.14"
 description = "LLM-optimized HTML cleaning: hydration extraction, token budgets, multiple output formats"
 readme = "README.md"
 license = "MIT"

@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "llm-email"
-version = "0.1.5"
+version = "0.1.7"
 description = "Send emails via macOS Mail.app — compose, draft, send with AppleScript"
 readme = "README.md"
 license = "MIT"
