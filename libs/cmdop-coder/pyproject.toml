@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "cmdop-coder"
-version = "0.1.8"
+version = "0.1.9"
 description = "CMDOP skill — code analysis with tree-sitter AST parsing"
 readme = "README.md"
 license = "MIT"
