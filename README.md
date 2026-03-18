@@ -1,6 +1,6 @@
 # CMDOP Skills Lab
 
-![CMDOP Skills Lab](https://raw.githubusercontent.com/markolofsen/assets/main/libs/cmdop_skills_lab.webp)
+![CMDOP Skills Lab](https://raw.githubusercontent.com/markolofsen/assets/main/libs/cmdop/cmdop-skills-lab.webp)
 
 Skills are plugins for the CMDOP agent. Each skill is a small Python package with commands, a manifest, and a system prompt. Two commands to get started:
 
