@@ -41,3 +41,10 @@ build/
 *.log
 *.tmp
 .env.local
+
+# Others
+@*
+
+# Claude agent worktrees + runtime locks (transient — never committed)
+.claude/worktrees/
+.claude/*.lock

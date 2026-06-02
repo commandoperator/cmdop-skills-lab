@@ -1,0 +1,314 @@
+2026-04-05 10:52:15 | SENT | eurodotster@gmail.com | mervin@a16z.com | Cmdop — AI Agent Infrastructure aligned with a16z'
+2026-04-05 10:52:39 | SENT | imconfirmer@gmail.com | roelof@sequoia.com | Cmdop — aligning with Sequoia's AI Leaders thesis
+2026-04-05 10:53:03 | SENT | anydatescom@gmail.com | sriramk@a16z.com | Cmdop — addressing DevOps & AI agent infra for con
+2026-04-05 10:53:35 | SENT | mark2much@gmail.com | anjney@a16z.com | Cmdop — addressing AI agent infra for a16z AI Fund
+2026-04-05 10:54:02 | SENT | globalidorg@gmail.com | vpande@a16z.com | Cmdop — AI agents infrastructure for Bio/AI focus
+2026-04-05 10:54:38 | SENT | kupinetwork@gmail.com | martin@a16z.com | Cmdop — AI agent infra aligned with a16z open sour
+2026-04-05 10:55:19 | SENT | hackandluck@gmail.com | vijaya@a16z.com | a16z Policy / Enterprise — Cmdop’s agent platform 
+2026-04-05 10:55:42 | SENT | eurodotster@gmail.com | george@sequoiacap.com | Cmdop — FinTech infra for AI agents at Sequoia Eur
+2026-04-05 10:56:19 | SENT | imconfirmer@gmail.com | mcasado@a16z.com | Cmdop — AI agent infra for Software 3.0 at a16z
+2026-04-05 10:56:41 | SENT | anydatescom@gmail.com | shailendra@sequoiacap.com | Sequoia India/SEA — scaling AI agents with Cmdop
+2026-04-05 10:57:21 | SENT | mark2much@gmail.com | cm@sequoiacap.com | Cmdop — AI agent infra aligned with Sequoia's GTM 
+2026-04-05 10:57:43 | SENT | globalidorg@gmail.com | raylene@sequoiacap.com | Cmdop — AI agent infra aligned with Sequoia's DevT
+2026-04-05 10:58:07 | SENT | kupinetwork@gmail.com | pat@sequoia.com | Cmdop — SaaS for AI agent infrastructure aligned w
+2026-04-05 10:58:37 | SENT | hackandluck@gmail.com | neil@hongshan.com | Cmdop — AI Agents for Manufacturing & DevOps at Se
+2026-04-05 11:01:15 | SENT | eurodotster@gmail.com | info@playground.global | Cmdop — aligning with Playground's AI Deep Tech fo
+2026-04-05 11:01:48 | SENT | imconfirmer@gmail.com | inquiries@generalatlantic.com | Cmdop — scaling AI agents for enterprise, aligned 
+2026-04-05 11:02:27 | SENT | anydatescom@gmail.com | contact@blossom-capital.com | Cmdop — aligning with Blossom's DevTools focus
+2026-04-05 11:03:07 | SENT | mark2much@gmail.com | andy@ionicpartners.com | Cmdop — aligning with Ionic’s Growth thesis on Dev
+2026-04-05 11:03:39 | SENT | globalidorg@gmail.com | info@breyercapital.com | Cmdop — AI/Enterprise focus aligned with Breyer Ca
+2026-04-05 11:04:12 | SENT | kupinetwork@gmail.com | hello@headline.com | Headline Fund — scaling AI agents for enterprise n
+2026-04-05 11:04:37 | SENT | hackandluck@gmail.com | info@higcapital.com | HIG Capital — AI infra for reliable agent deployme
+2026-04-05 11:05:15 | SENT | eurodotster@gmail.com | contact@greenoaks.com | Greenoaks — scaling AI agent infrastructure for gr
+2026-04-05 11:05:40 | SENT | imconfirmer@gmail.com | info@forgepointcap.com | Cmdop — security-focused AI agents for enterprise 
+2026-04-05 11:06:15 | SENT | anydatescom@gmail.com | partnerships@menlovc.com | Cmdop — aligning with Menlo's AI & Enterprise focu
+2026-04-05 11:06:47 | SENT | mark2much@gmail.com | hello@collaborativefund.com | Cmdop — aligning with Collaborative Fund's Tech & 
+2026-04-05 11:07:17 | SENT | globalidorg@gmail.com | info@ballisticventures.com | Cmdop — Security-focused AI agent infra aligned wi
+2026-04-05 11:07:57 | SENT | kupinetwork@gmail.com | decks@blingcap.com | Cmdop — AI/Automation for Developer Infrastructure
+2026-04-05 11:08:32 | SENT | hackandluck@gmail.com | ideas@645ventures.com | Cmdop — AI agent infra aligned with 645 Ventures’ 
+2026-04-05 11:09:05 | SENT | eurodotster@gmail.com | delltechcapital@dell.com | Dell Tech Capital — enterprise AI agent infrastruc
+2026-04-05 11:09:42 | SENT | imconfirmer@gmail.com | contact@atomico.com | Cmdop — aligning with Atomico's Deep Tech & Enterp
+2026-04-05 11:10:04 | SENT | anydatescom@gmail.com | pitch@eniac.vc | Eniac Ventures — Scaling AI Agents with Cmdop
+2026-04-05 11:10:27 | SENT | mark2much@gmail.com | info@pointnine.com | Point Nine — Cmdop's B2B SaaS for AI Agent Infrast
+2026-04-05 11:10:54 | SENT | globalidorg@gmail.com | hello@acrewcapital.com | Cmdop — aligning with Acrew's enterprise infra foc
+2026-04-05 11:11:17 | SENT | kupinetwork@gmail.com | emailinquiries@archventure.com | Arch Venture — Deep Tech in AI Infrastructure with
+2026-04-05 11:11:51 | SENT | hackandluck@gmail.com | info@amplifypartners.com | Cmdop — aligning with Amplify's DevInfra focus
+2026-04-05 11:12:23 | SENT | eurodotster@gmail.com | opportunity@cherry.vc | Cmdop — aligning with Cherry Ventures' AI develope
+2026-04-05 11:12:59 | SENT | imconfirmer@gmail.com | hello@dawncapital.com | Dawn Capital — scaling B2B SaaS with Cmdop’s agent
+2026-04-05 11:13:39 | SENT | anydatescom@gmail.com | hello@eqtventures.com | Cmdop — AI Agent Infra aligned with EQT Ventures' 
+2026-04-05 11:14:02 | SENT | mark2much@gmail.com | businessdevelopment@battery.com | Cmdop — fitting Battery's DevTools/Cloud thesis
+2026-04-05 11:14:41 | SENT | globalidorg@gmail.com | admin@eclipse.capital | Cmdop — AI agent infra aligning with Eclipse's Ind
+2026-04-05 11:15:11 | SENT | kupinetwork@gmail.com | info@costanoa.vc | Cmdop — aligning with Costanoa’s enterprise & DevT
+2026-04-05 11:15:37 | SENT | hackandluck@gmail.com | hello@canaan.com | Cmdop — aligning with Canaan's enterprise/cloud fo
+2026-04-05 11:16:09 | SENT | eurodotster@gmail.com | sanfrancisco-info@a16z.com | a16z — AI Infrastructure for Reliable Agents
+2026-04-05 11:16:35 | SENT | imconfirmer@gmail.com | media@8vc.com | 8VC — AI infrastructure with Cmdop’s agent platfor
+2026-04-05 11:17:14 | SENT | anydatescom@gmail.com | info@luxcapital.com | Cmdop — aligning with Lux’s Deep Tech / Serverless
+2026-04-05 11:17:49 | SENT | mark2much@gmail.com | bd@nea.com | NEA — enterprise AI infra for scalable agents
+2026-04-05 11:18:14 | SENT | globalidorg@gmail.com | hello@craftventures.com | Cmdop — AI agent infra aligned with Craft Ventures
+2026-04-05 11:18:47 | SENT | kupinetwork@gmail.com | inquiries@craftventures.com | Cmdop — AI Agents for B2B Infrastructure at Craft 
+2026-04-05 11:19:10 | SENT | hackandluck@gmail.com | us-reception@lsvp.com | Lightspeed — scaling AI agents for enterprise grow
+2026-04-05 11:19:44 | SENT | eurodotster@gmail.com | mp-reception@lsvp.com | Lightspeed — enterprise AI agent infra for growth
+2026-04-05 11:20:06 | SENT | imconfirmer@gmail.com | nola@lsvp.com | Lightspeed — scaling AI agent infra for enterprise
+2026-04-05 11:20:38 | SENT | anydatescom@gmail.com | kv@khoslaventures.com | Cmdop — AI agent infrastructure for Khosla's Deep 
+2026-04-05 11:21:14 | SENT | mark2much@gmail.com | shuang@sequoiacap.com | Cmdop — the AI agent infra aligned with Sequoia’s 
+2026-04-05 11:21:43 | SENT | globalidorg@gmail.com | fenton@benchmark.com | Cmdop — Infrastructure for AI Agents aligned with 
+2026-04-05 11:22:09 | SENT | kupinetwork@gmail.com | miles@benchmark.com | Cmdop — aligning with Benchmark’s Data Platforms t
+2026-04-05 11:22:40 | SENT | hackandluck@gmail.com | stavel@benchmark.com | Cmdop — aligning with Benchmark’s SaaS focus
+2026-04-05 11:23:14 | SENT | eurodotster@gmail.com | mgrimshaw@benchmark.com | Cmdop — AI agent infrastructure aligned with Bench
+2026-04-05 11:23:42 | SENT | imconfirmer@gmail.com | evishria@benchmark.com | Cmdop — Infrastructure for scalable AI agents, ali
+2026-04-05 11:24:09 | SENT | anydatescom@gmail.com | pfenton@benchmark.com | Cmdop — the AI agent infra aligned with Benchmark'
+2026-04-05 11:24:31 | SENT | mark2much@gmail.com | chetanp@benchmark.com | Cmdop — addressing DevTools inefficiencies at Benc
+2026-04-05 11:25:04 | SENT | globalidorg@gmail.com | peter@benchmark.com | Cmdop — Infrastructure for AI Agents aligned with 
+2026-04-05 11:25:33 | SENT | kupinetwork@gmail.com | sarah@benchmark.com | Cmdop — AI agents for consumer and AI infra focus
+2026-04-05 11:26:02 | SENT | hackandluck@gmail.com | gurley@benchmark.com | Cmdop — aligned with Benchmark’s AI marketplace th
+2026-04-05 11:26:42 | SENT | eurodotster@gmail.com | bill.gurley@benchmark.com | Cmdop — addressing marketplace tools for DevOps wi
+2026-04-05 11:27:10 | SENT | imconfirmer@gmail.com | tavel@benchmark.com | Cmdop — advancing AI agents for consumer/marketpla
+2026-04-05 11:27:38 | SENT | anydatescom@gmail.com | bucky@kp.com | Kleiner Perkins — AI infrastructure for scalable a
+2026-04-05 11:28:13 | SENT | mark2much@gmail.com | bmoore@kpcb.com | Cmdop — aligning with Kleiner Perkins DevTools the
+2026-04-05 11:28:52 | SENT | globalidorg@gmail.com | vishria@benchmark.com | Cmdop — AI Agent Infrastructure for Benchmark’s Da
+2026-04-05 11:29:16 | SENT | kupinetwork@gmail.com | jdoerr@kpcb.com | Cmdop — AI agent infra aligning with Kleiner's Gre
+2026-04-05 11:29:43 | SENT | hackandluck@gmail.com | brooks@kpcb.com | Cmdop — AI Agent Infrastructure aligned with Klein
+2026-04-05 11:30:18 | SENT | eurodotster@gmail.com | chetan@benchmark.com | Cmdop — aligning with Benchmark’s DevTools thesis
+2026-04-05 11:30:49 | SENT | imconfirmer@gmail.com | volpi@indexventures.com | Cmdop — addressing infra gaps in enterprise AI age
+2026-04-05 11:31:15 | SENT | anydatescom@gmail.com | ilya@kp.com | Cmdop — enterprise-ready AI agent infra for Kleine
+2026-04-05 11:31:52 | SENT | mark2much@gmail.com | rwong@accel.com | Cmdop — aligning with Accel’s DevOps & Agented Wor
+2026-04-05 11:32:17 | SENT | globalidorg@gmail.com | jhammer@indexventures.com | Cmdop — AI agent infra aligning with Index Venture
+2026-04-05 11:32:58 | SENT | kupinetwork@gmail.com | mvolpi@indexventures.com | Cmdop — AI agent infra aligned with Index's Durabl
+2026-04-05 11:33:34 | SENT | hackandluck@gmail.com | harry@accel.com | Cmdop — AI Agent Infrastructure for Accel EU’s Sof
+2026-04-05 11:34:12 | SENT | eurodotster@gmail.com | pbotteri@accel.com | Cmdop — SaaS for AI agent infrastructure at Accel
+2026-04-05 11:34:38 | SENT | imconfirmer@gmail.com | dlevine@accel.com | Cmdop — advancing developer experience with secure
+2026-04-05 11:35:06 | SENT | anydatescom@gmail.com | sonali@accel.com | Cmdop — SaaS for AI agent infrastructure aligned w
+2026-04-05 11:35:32 | SENT | mark2much@gmail.com | osela@accel.com | Accel — addressing productivity with Cmdop's AI ag
+2026-04-05 11:36:05 | SENT | globalidorg@gmail.com | drimer@indexventures.com | Cmdop — AI agent infra aligned with Index's consum
+2026-04-05 11:36:30 | SENT | kupinetwork@gmail.com | agenoot@greylock.com | Cmdop — enterprise-ready AI agents for Greylock's 
+2026-04-05 11:36:58 | SENT | hackandluck@gmail.com | akumar@accel.com | Accel  AI Agent Infrastructure with Cmdop
+2026-04-05 11:37:18 | SENT | eurodotster@gmail.com | kay.chan@indexventures.com | Cmdop — aligning with Index Ventures’ AI infra foc
+2026-04-05 11:37:46 | SENT | imconfirmer@gmail.com | sethr@greylock.com | Cmdop — AI agent infra aligned with Greylock's fin
+2026-04-05 11:38:26 | SENT | anydatescom@gmail.com | jerry@greylock.com | Cmdop — Infrastructure SaaS for AI Agents at Greyl
+2026-04-05 11:39:03 | SENT | mark2much@gmail.com | asheem@greylock.com | Cmdop — aligning with Greylock’s SaaS infra focus
+2026-04-05 11:39:35 | SENT | globalidorg@gmail.com | corinne@greylock.com | Cmdop — aligning with Greylock's SaaS/AI focus
+2026-04-05 11:40:14 | SENT | kupinetwork@gmail.com | ashtyn@greylock.com | Greylock’s AI Strategy & Cmdop’s agent platform
+2026-04-05 11:40:48 | SENT | hackandluck@gmail.com | trae@foundersfund.com | Cmdop — Defense Tech for AI Agents at Founders Fun
+2026-04-05 11:41:27 | SENT | eurodotster@gmail.com | jwolfe@luxcapital.com | Cmdop — Deep Tech for Reliable AI Agents, Lux's Th
+2026-04-05 11:42:00 | SENT | imconfirmer@gmail.com | k.rabois@foundersfund.com | Cmdop — AI agent infra aligned with Founders Fund 
+2026-04-05 11:42:29 | SENT | anydatescom@gmail.com | sarah@conviction.vc | Cmdop — AI Agent Infrastructure for AI Native Prod
+2026-04-05 11:42:59 | SENT | mark2much@gmail.com | saam@greylock.com | Cmdop — addressing enterprise AI agent infrastruct
+2026-04-05 11:43:21 | SENT | globalidorg@gmail.com | grace@luxcapital.com | Cmdop — aligning with Lux Capital's serverless inf
+2026-04-05 11:43:57 | SENT | kupinetwork@gmail.com | john@foundersfund.com | Cmdop — AI Infrastructure for Scalable Agent Manag
+2026-04-05 11:44:38 | SENT | hackandluck@gmail.com | pmarc@a16z.com | Cmdop — AI agent infrastructure for the Software E
+2026-04-05 11:45:16 | SENT | eurodotster@gmail.com | delian@foundersfund.com | Cmdop — AI Dev infra aligned with Founders Fund th
+2026-04-05 11:45:52 | SENT | imconfirmer@gmail.com | raney@redpoint.com | Cmdop — AI agents infrastructure for cloud scale a
+2026-04-05 11:46:24 | SENT | anydatescom@gmail.com | ravi@lightspeed.com | Lightspeed & enterprise SaaS for AI agents
+2026-04-05 11:47:02 | SENT | mark2much@gmail.com | erica@redpoint.com | Cmdop — AI Agents Infrastructure for Open Source &
+2026-04-05 11:47:28 | SENT | globalidorg@gmail.com | tomasz@redpoint.com | Cmdop — aligning with Redpoint's Data/AI focus
+2026-04-05 11:47:51 | SENT | kupinetwork@gmail.com | scott@redpoint.com | Redpoint & AI Infrastructure — Cmdop’s agent platf
+2026-04-05 11:48:16 | SENT | hackandluck@gmail.com | ebrescia@redpoint.com | Redpoint DevTools / Railway — Cmdop's agent platfo
+2026-04-05 11:48:48 | SENT | eurodotster@gmail.com | htaneja@generalcatalyst.com | Cmdop — aligning with General Catalyst's Platform 
+2026-04-05 11:49:10 | SENT | imconfirmer@gmail.com | ken@generalcatalyst.com | Cmdop — aligning with General Catalyst's enterpris
+2026-04-05 11:49:51 | SENT | anydatescom@gmail.com | atran@generalcatalyst.com | Cmdop — aligning with General Catalyst’s enterpris
+2026-04-05 11:50:20 | SENT | mark2much@gmail.com | dnishar@generalcatalyst.com | Cmdop — AI agent infra aligned with General Cataly
+2026-04-05 11:50:42 | SENT | globalidorg@gmail.com | jason@redpoint.com | Redpoint & DevOps — Cmdop's agent infrastructure o
+2026-04-05 11:51:08 | SENT | kupinetwork@gmail.com | satish@redpoint.com | Cmdop — aligning with Redpoint’s infra & security 
+2026-04-05 11:51:46 | SENT | hackandluck@gmail.com | ttunguz@redpoint.com | Cmdop — Data infra for scalable AI agents at Redpo
+2026-04-05 11:52:14 | SENT | eurodotster@gmail.com | talvarez@generalcatalyst.com | Cmdop — aligning with General Catalyst’s enterpris
+2026-04-05 11:52:52 | SENT | imconfirmer@gmail.com | dnishar@gc.com | Cmdop — Aligns with General Catalyst's AI Platform
+2026-04-05 12:05:30 | SENT | eurodotster@gmail.com | l.fixel@addition.com | Cmdop — aligning with Addition’s India/US tech the
+2026-04-05 12:06:06 | SENT | imconfirmer@gmail.com | cook@tigerglobal.com | Cmdop — AI Agent Infra for SaaS & DevOps at Tiger
+2026-04-05 12:06:32 | SENT | anydatescom@gmail.com | acook@tigerglobal.com | Cmdop — AI Agent Infrastructure aligned with Tiger
+2026-04-05 12:07:04 | SENT | mark2much@gmail.com | carras@tigerglobal.com | Cmdop — aligning with Tiger Global’s Consumer AI f
+2026-04-05 12:07:35 | SENT | globalidorg@gmail.com | cmarooney@coatue.com | Cmdop — infrastructure for reliable AI agents in D
+2026-04-05 12:08:00 | SENT | kupinetwork@gmail.com | philippe@coatue.com | Cmdop — AI agent infra aligned with Coatue’s tech 
+2026-04-05 12:08:39 | SENT | hackandluck@gmail.com | tlaffont@coatue.com | Cmdop — media/AI/SaaS focus for Coatue
+2026-04-05 12:09:15 | SENT | eurodotster@gmail.com | shleifer@tigerglobal.com | Cmdop — scaling AI agents for SaaS growth at Tiger
+2026-04-05 12:09:37 | SENT | imconfirmer@gmail.com | vinod@khosla.com | Cmdop — AI agent infra aligned with Khosla's moons
+2026-04-05 12:09:58 | SENT | anydatescom@gmail.com | liquid@coatue.com | Cmdop — AI agent infra aligned with Coatue’s cloud
+2026-04-05 12:10:30 | SENT | mark2much@gmail.com | jhoring@insightpartners.com | Insight's Scale thesis meets Cmdop’s AI agent plat
+2026-04-05 12:11:07 | SENT | globalidorg@gmail.com | dagrawal@coatue.com | Cmdop — AI agent infra aligned with Coatue’s AI th
+2026-04-05 12:11:29 | SENT | kupinetwork@gmail.com | h.tung@ggvcap.com | Cmdop — aligning with GGV's cross-border AI infra 
+2026-04-05 12:12:05 | SENT | hackandluck@gmail.com | siyer@coatue.com | Cmdop — Data infra for AI agents aligned with Coat
+2026-04-05 12:12:36 | SENT | eurodotster@gmail.com | erikn@gv.com | Cmdop — AI agent infra aligned with GV’s engineeri
+2026-04-05 12:13:04 | SENT | imconfirmer@gmail.com | ethan@bvp.com | Cmdop — aligning with Bessemer’s DevTools and Infr
+2026-04-05 12:13:30 | SENT | anydatescom@gmail.com | byron@bvp.com | Cmdop — SaaS for AI Agents aligned with Bessemer’s
+2026-04-05 12:13:52 | SENT | mark2much@gmail.com | afisher@bvp.com | Cmdop — AI agent infra aligned with Bessemer's cyb
+2026-04-05 12:14:30 | SENT | globalidorg@gmail.com | mary@bvp.com | Cmdop — AI Agents for Bessemer’s Cloud & AI thesis
+2026-04-05 12:15:08 | SENT | kupinetwork@gmail.com | ben@a16z.com | Cmdop — AI agent infra aligned with a16z's core in
+2026-04-05 12:15:46 | SENT | hackandluck@gmail.com | somesh@ivp.com | Cmdop — addressing growth-stage AI infra with IVP
+2026-04-05 12:16:25 | SENT | eurodotster@gmail.com | ssandell@nea.com | Cmdop — scaling AI agents aligned with NEA’s AI th
+2026-04-05 12:16:56 | SENT | imconfirmer@gmail.com | kent@bvp.com | Cmdop — aligning with Bessemer's AI marketplace th
+2026-04-05 12:17:18 | SENT | anydatescom@gmail.com | micky@ribbitcap.com | Cmdop — Fintech Infrastructure for AI Agent Manage
+2026-04-05 12:17:45 | SENT | mark2much@gmail.com | haakon@dawncapital.com | Cmdop — AI Agents for B2B DevOps at Dawn Capital
+2026-04-05 12:18:21 | SENT | globalidorg@gmail.com | maha@canaan.com | Cmdop — aligning with Canaan’s Enterprise focus
+2026-04-05 12:18:42 | SENT | kupinetwork@gmail.com | bliautaud@balderton.com | Cmdop — EU enterprise AI agent infra aligned with 
+2026-04-05 12:19:03 | SENT | hackandluck@gmail.com | christoph@pointnine.com | Cmdop — SaaS for scalable AI agent infrastructure 
+2026-04-05 12:19:25 | SENT | eurodotster@gmail.com | nagraj@microsoft.com | Cmdop — AI agent infra aligned with M12’s AI ecosy
+2026-04-05 12:20:06 | SENT | imconfirmer@gmail.com | charles@alven.co | Cmdop — AI agent infra aligned with Alven's French
+2026-04-05 12:20:28 | SENT | anydatescom@gmail.com | yaron@targetglobal.vc | Cmdop — AI agent infra aligned with Target Global'
+2026-04-05 12:21:00 | SENT | mark2much@gmail.com | quinn.li@qualcomm.com | Cmdop — edge AI agents for mobile and enterprise
+2026-04-05 12:21:42 | SENT | globalidorg@gmail.com | david@samsungnext.com | Cmdop — AI agent infra aligned with Samsung NEXT's
+2026-04-05 12:22:09 | SENT | kupinetwork@gmail.com | jsomorjai@salesforce.com | Cmdop — SaaS agent infra aligned with Salesforce V
+2026-04-05 12:22:29 | SENT | hackandluck@gmail.com | gil@83north.com | Cmdop — AI agent infra aligned with 83North's ente
+2026-04-05 12:22:51 | SENT | eurodotster@gmail.com | masa@softbank.jp | Cmdop — scaling AI agents aligned with SoftBank's 
+2026-04-05 12:23:24 | SENT | imconfirmer@gmail.com | gtuli@fprimecapital.com | Cmdop — AI agent infra aligned with F-Prime's heal
+2026-04-05 12:23:55 | SENT | anydatescom@gmail.com | dilhan@temasek.com.sg | Cmdop — aligning with Temasek’s Sovereign Tech foc
+2026-04-05 12:24:16 | SENT | mark2much@gmail.com | meyer@ribbit.com | Cmdop — Fintech infrastructure with AI agent scali
+2026-04-05 12:24:40 | SENT | globalidorg@gmail.com | seth@susaventures.com | Cmdop — data-driven AI agent infra for Susa’s thes
+2026-04-05 12:25:14 | SENT | kupinetwork@gmail.com | neeraj@battery.com | Cmdop — SaaS for AI agent infra aligned with Batte
+2026-04-05 12:25:40 | SENT | hackandluck@gmail.com | josh@thrivecap.com | Cmdop for Thrive's Foundation Models thesis
+2026-04-05 12:26:19 | SENT | eurodotster@gmail.com | greg@costanoa.vc | Cmdop — applying AI to scalable agent infrastructu
+2026-04-05 12:26:48 | SENT | imconfirmer@gmail.com | rzullo@speedinvest.com | Cmdop — deep tech for scalable AI agents in EU inf
+2026-04-05 12:27:26 | SENT | anydatescom@gmail.com | ben@lererhippeau.com | Lerer Hippeau & Cmdop — streamlining AI agent infr
+2026-04-05 12:27:53 | SENT | mark2much@gmail.com | jeff@uncorkvc.com | Cmdop — SaaS for AI agent infrastructure aligned w
+2026-04-05 12:28:14 | SENT | globalidorg@gmail.com | dana@greycroft.com | Cmdop — addressing media & AI infra needs with Gre
+2026-04-05 12:28:54 | SENT | kupinetwork@gmail.com | gary@canvas.vc | Cmdop — enterprise-ready AI agents for Canvas's fo
+2026-04-05 12:29:18 | SENT | hackandluck@gmail.com | stacey@scalevp.com | Cmdop — SaaS for scalable AI agent deployment at S
+2026-04-05 12:29:42 | SENT | eurodotster@gmail.com | chamath@socialcapital.com | Cmdop — aligning with Social Capital’s deep tech &
+2026-04-05 12:30:21 | SENT | imconfirmer@gmail.com | sam@slow.vc | Cmdop — long-term AI infra aligned with Slow Ventu
+2026-04-05 12:31:01 | SENT | anydatescom@gmail.com | fwilson@usv.com | Cmdop — AI agent infra aligned with USV Web3 thesi
+2026-04-05 12:31:31 | SENT | mark2much@gmail.com | ramtin@abstract.vc | Cmdop — AI agents infrastructure aligned with Abst
+2026-04-05 12:31:59 | SENT | globalidorg@gmail.com | howard@socialleverage.com | Cmdop — aligning with Social Leverage's SaaS/Finte
+2026-04-05 12:32:23 | SENT | kupinetwork@gmail.com | cfarmer@signalfire.com | Cmdop — AI agent infra aligned with SignalFire’s s
+2026-04-05 12:32:58 | SENT | hackandluck@gmail.com | egor@pioneerfund.vc | Cmdop — aligning with Pioner’s alumni-led AI thesi
+2026-04-05 12:33:22 | SENT | eurodotster@gmail.com | hunter@homebrew.co | Cmdop — fitting Homebrew’s seed platform thesis
+2026-04-05 12:33:52 | SENT | imconfirmer@gmail.com | seth@fiftyyears.com | Cmdop — AI Agent Infra for Deep Tech Focus at Fift
+2026-04-05 12:34:26 | SENT | anydatescom@gmail.com | lachy@lachygroom.com | Cmdop — AI agent infra aligned with Lachy Groom’s 
+2026-04-05 12:34:52 | SENT | mark2much@gmail.com | peter@wing.vc | Cmdop — enterprise AI agent infrastructure for Win
+2026-04-05 12:35:16 | SENT | globalidorg@gmail.com | theresia@acrewcapital.com | Cmdop — aligning with Acrew's security focus in AI
+2026-04-05 12:35:49 | SENT | kupinetwork@gmail.com | craig@collabfund.com | Cmdop — Impact Tech for AI Agent Infrastructure
+2026-04-05 12:36:25 | SENT | hackandluck@gmail.com | elad@eladgil.com | Elad Gil — scaling AI agents with Cmdop
+2026-04-05 12:36:59 | SENT | eurodotster@gmail.com | naval@airchat.com | Cmdop — addressing AI agent infra aligned with Nav
+2026-04-05 12:37:22 | SENT | imconfirmer@gmail.com | daniel@dgross.com | Cmdop — AI Agent Infrastructure for Daniel Gross
+2026-04-05 12:38:00 | SENT | anydatescom@gmail.com | nat@nat.org | Cmdop — AI infra for open source agent builders
+2026-04-05 12:38:32 | SENT | mark2much@gmail.com | jack@lattice.com | Cmdop — SaaS for AI agent infra aligned with your 
+2026-04-05 12:39:00 | SENT | globalidorg@gmail.com | karpathy@openai.com | Cmdop — AI Agent Infra aligned with your thesis
+2026-04-05 12:39:22 | SENT | kupinetwork@gmail.com | mustafa@microsoft.com | Cmdop — AI agent infra aligned with Microsoft AI f
+2026-04-05 12:39:44 | SENT | hackandluck@gmail.com | rauchg@vercel.com | Cmdop — Web infra for scalable AI agents in Guille
+2026-04-05 12:40:06 | SENT | eurodotster@gmail.com | amjad@replit.com | Cmdop — developer tools for AI agent infrastructur
+2026-04-05 12:40:29 | SENT | imconfirmer@gmail.com | dfield@figma.com | Cmdop — AI agent infra aligned with Dylan Field’s 
+2026-04-05 12:41:04 | SENT | anydatescom@gmail.com | tobi@shopify.com | Cmdop — infra for AI agents aligned with Tobi Lutk
+2026-04-05 12:41:26 | SENT | mark2much@gmail.com | patrick@stripe.com | Cmdop — AI Agent Infra aligned with Collison Payme
+2026-04-05 12:41:50 | SENT | globalidorg@gmail.com | aravind@perplexity.ai | Cmdop — AI Agent Infra Aligned with Search/AI Focu
+2026-04-05 12:42:17 | SENT | kupinetwork@gmail.com | john@stripe.com | Cmdop — AI agent infra aligned with Collison's foc
+2026-04-05 12:42:45 | SENT | hackandluck@gmail.com | clement@huggingface.co | Clément Delangue — Open Source AI infra for scalab
+2026-04-05 12:43:25 | SENT | eurodotster@gmail.com | alexandr@scale.com | Cmdop — AI agent infra aligned with Alexandr Wang’
+2026-04-05 12:43:57 | SENT | imconfirmer@gmail.com | aidan@cohere.com | Cmdop — aligning with your enterprise LLMs focus
+2026-04-05 12:44:30 | SENT | anydatescom@gmail.com | balaji@balajis.com | Cmdop — AI agents infrastructure for network state
+2026-04-05 12:44:58 | SENT | mark2much@gmail.com | reid@greylock.com | Cmdop — human-centric AI agents for scalable deplo
+2026-04-05 12:45:30 | SENT | globalidorg@gmail.com | vitalik@ethereum.org | Cmdop — AI agent infra aligned with your crypto & 
+2026-04-05 12:45:59 | SENT | kupinetwork@gmail.com | peter@thiel.com | Cmdop — aligning with Thiel's contrarian AI infra 
+2026-04-05 12:46:27 | SENT | hackandluck@gmail.com | bill@gatesventures.com | Cmdop — AI agent infra aligned with your health li
+2026-04-05 12:47:00 | SENT | eurodotster@gmail.com | zuck@meta.com | Cmdop — Open Source AI Agents for Llama Infrastruc
+2026-04-05 12:47:36 | SENT | imconfirmer@gmail.com | satya@microsoft.com | Cmdop  Azure AI infrastructure alignment
+2026-04-05 12:48:08 | SENT | anydatescom@gmail.com | mbenioff@salesforce.com | Cmdop — aligning with Agentforce infrastructure ne
+2026-04-05 12:48:31 | SENT | mark2much@gmail.com | sundar@google.com | Cmdop — AI Agent Infra Aligns with Gemini/Search F
+2026-04-05 12:49:04 | SENT | globalidorg@gmail.com | jeff@bezos.com | Cmdop — AI agent infra aligned with Bezos Logistic
+2026-04-05 12:49:33 | SENT | kupinetwork@gmail.com | talia@bvp.com | Cmdop — AI agent infra for BVP’s consumer/AI focus
+2026-04-05 12:50:13 | SENT | hackandluck@gmail.com | sarah@conviction.com | Cmdop — AI-native agent infra for your thesis
+2026-04-05 12:50:45 | SENT | eurodotster@gmail.com | gt@initialized.com | Cmdop — SaaS for AI Agents aligned with Garry Tan'
+2026-04-05 12:51:21 | SENT | imconfirmer@gmail.com | nitin@thrive.vc | Cmdop — AI Agent Infra aligned with Thrive’s Finte
+2026-04-05 12:51:49 | SENT | anydatescom@gmail.com | martin@indexventures.com | Cmdop — AI Agents for SaaS, fitting Index's consum
+2026-04-05 12:52:18 | SENT | mark2much@gmail.com | jan@indexventures.com | Cmdop — Fintech EU focus, AI agent infra for scale
+2026-04-05 12:52:59 | SENT | globalidorg@gmail.com | pawel@pointnine.com | Cmdop — B2B SaaS for AI agent infra at Point Nine
+2026-04-05 12:53:29 | SENT | kupinetwork@gmail.com | pcollombel@partechpartners.com | Cmdop — expanding AI agent infra via Partech's glo
+2026-04-05 12:53:55 | SENT | hackandluck@gmail.com | klaus@lakestar.com | Cmdop — European AI sovereignty with agent infrast
+2026-04-05 12:54:19 | SENT | eurodotster@gmail.com | ashu@foundationcap.com | Cmdop — Infrastructure for Reliable AI Agents, ali
+2026-04-05 12:54:45 | SENT | imconfirmer@gmail.com | hendrik@earlybird.com | Cmdop — Deep Tech for AI Agent Infrastructure at E
+2026-04-05 12:55:13 | SENT | anydatescom@gmail.com | venky@menloventures.com | Menlo Ventures & AI SaaS Infrastructure Opportunit
+2026-04-05 12:55:46 | SENT | mark2much@gmail.com | mike@shv.com | Cmdop — aligning with Sutter Hill's cloud incubati
+2026-04-05 12:56:23 | SENT | globalidorg@gmail.com | nabeel@sparkcapital.com | Cmdop — aligning with Spark Capital's platform/med
+2026-04-05 12:57:00 | SENT | kupinetwork@gmail.com | joydeep@canaan.com | Cmdop — AI Agents Infrastructure for Robotics Focu
+2026-04-05 12:57:36 | SENT | hackandluck@gmail.com | murat@crv.com | Cmdop — aligning with CRV's Deep Tech Seed focus
+2026-04-05 12:58:14 | SENT | eurodotster@gmail.com | ms@shv.com | Cmdop — AI agent infra for the Data Cloud era
+2026-04-05 12:58:48 | SENT | imconfirmer@gmail.com | frank@snowflake.com | Cmdop — enterprise-ready AI agents for Snowflake’s
+2026-04-05 12:59:17 | SENT | anydatescom@gmail.com | ali@databricks.com | Cmdop — DataBricks & Data AI focus on agent infra
+2026-04-05 12:59:56 | SENT | mark2much@gmail.com | bob@weaviate.io | Cmdop — fitting Weaviate’s AI Database thesis with
+2026-04-05 13:00:31 | SENT | globalidorg@gmail.com | mitchell@hashicorp.com | Cmdop — aligning with HashiCorp's cloud infra thes
+2026-04-05 13:00:57 | SENT | kupinetwork@gmail.com | dev@mongodb.com | Cmdop — aligning with MongoDB’s database moderniza
+2026-04-05 13:01:33 | SENT | hackandluck@gmail.com | paul@supabase.com | Cmdop — Open Source DB thesis meets AI agent infra
+2026-04-05 13:02:12 | SENT | eurodotster@gmail.com | ben@replicate.com | Cmdop — AI agent infrastructure for Replicate
+2026-04-05 13:02:51 | SENT | imconfirmer@gmail.com | yohei@untapped.vc | Cmdop — aligning with BabyAGI’s agentic AI thesis
+2026-04-05 13:03:13 | SENT | anydatescom@gmail.com | harrison@langchain.com | Cmdop — aligning with LangChain’s AI Orchestration
+2026-04-05 13:03:41 | SENT | mark2much@gmail.com | toran@agpt.co | Cmdop — advancing autonomous agent infrastructure 
+2026-04-05 13:04:16 | SENT | globalidorg@gmail.com | robert@anyscale.com | Cmdop — AI agent infra aligned with Anyscale’s dis
+2026-04-05 13:04:37 | SENT | kupinetwork@gmail.com | jay@confluent.io | Cmdop — aligning with Confluent’s streaming data f
+2026-04-05 13:05:14 | SENT | hackandluck@gmail.com | erik@modal.com | Cmdop — advancing serverless GPU for AI agents at 
+2026-04-05 13:05:48 | SENT | eurodotster@gmail.com | vipul@together.ai | Cmdop — open source compute for AI agents, aligned
+2026-04-05 13:06:23 | SENT | imconfirmer@gmail.com | anurag@render.com | Cmdop — aligning with Render’s cloud hosting focus
+2026-04-05 13:07:02 | SENT | anydatescom@gmail.com | jake@railway.app | Cmdop — Infrastructure SaaS for AI Agents at Railw
+2026-04-05 13:07:43 | SENT | mark2much@gmail.com | ben@digitalocean.com | Cmdop — aligning with DigitalOcean's developer exp
+2026-04-05 13:08:13 | SENT | globalidorg@gmail.com | julien@huggingface.co | Cmdop — AI agent infrastructure for community-driv
+2026-04-05 13:08:37 | SENT | kupinetwork@gmail.com | greg@openai.com | OpenAI — AI agent infrastructure for scale
+2026-04-05 13:09:11 | SENT | hackandluck@gmail.com | wojciech@openai.com | Cmdop — AI agent infra aligned with OpenAI’s robot
+2026-04-05 13:09:45 | SENT | eurodotster@gmail.com | mira@openai.com | OpenAI — Cmdop's AI agent infra for product AI foc
+2026-04-05 13:10:14 | SENT | imconfirmer@gmail.com | david@adept.ai | Cmdop — Action Models for AI Agent Infrastructure
+2026-04-05 13:10:43 | SENT | anydatescom@gmail.com | noam@character.ai | Character.ai — Cmdop's AI agent infra for personal
+2026-04-05 13:11:07 | SENT | mark2much@gmail.com | mustafa@inflection.ai | Cmdop — AI agent infra aligned with Inflection AI
+2026-04-05 13:11:42 | SENT | globalidorg@gmail.com | aidan@cohere.ai | Cmdop — addressing enterprise NLP agent infrastruc
+2026-04-05 13:12:17 | SENT | kupinetwork@gmail.com | dave@jasper.ai | Cmdop — aligning with Jasper's Marketing AI thesis
+2026-04-05 13:12:38 | SENT | hackandluck@gmail.com | cris@runwayml.com | Cmdop — advancing AI agent infrastructure for Crea
+2026-04-05 13:13:11 | SENT | eurodotster@gmail.com | arvind@glean.com | Cmdop — enterprise-ready AI agents for Glean's sea
+2026-04-05 13:13:33 | SENT | imconfirmer@gmail.com | emad@stability.ai | Cmdop — Generative Media's Infrastructure for AI A
+2026-04-05 13:14:10 | SENT | anydatescom@gmail.com | alex@snorkel.ai | Cmdop — scaling AI agent infrastructure for data l
+2026-04-05 13:14:35 | SENT | mark2much@gmail.com | barr@montecarlodata.com | Cmdop — AI Agents & DevOps Infrastructure for Mont
+2026-04-05 13:15:16 | SENT | globalidorg@gmail.com | kyle@bigeye.com | Cmdop — addressing data quality in AI agent infras
+2026-04-05 13:15:51 | SENT | kupinetwork@gmail.com | michel@airbyte.io | Cmdop — open source agent infra aligned with Airby
+2026-04-05 13:16:14 | SENT | hackandluck@gmail.com | tristan@dbtlabs.com | Cmdop — AI agent infra for data transformation at 
+2026-04-05 13:16:52 | SENT | eurodotster@gmail.com | justin@starburst.io | Cmdop — AI Agents and Data Mesh alignment with Sta
+2026-04-05 13:17:29 | SENT | imconfirmer@gmail.com | guy@snyk.io | Snyk & Cmdop — developer security for AI agents
+2026-04-05 13:18:02 | SENT | anydatescom@gmail.com | assaf@wiz.io | Cmdop — addressing cloud security gaps for AI agen
+2026-04-05 13:18:23 | SENT | mark2much@gmail.com | alexey@clickhouse.com | Cmdop — AI agent infra aligned with ClickHouse's O
+2026-04-05 13:18:52 | SENT | globalidorg@gmail.com | aviad@orca.security | Cmdop — AI Agents & Agentless Security fit for Orc
+2026-04-05 13:19:27 | SENT | kupinetwork@gmail.com | jordan@motherduck.com | Cmdop — aligning with MotherDuck’s focus on DuckDB
+2026-04-05 13:19:50 | SENT | hackandluck@gmail.com | nikesh@paloaltonetworks.com | Cmdop — Security platform for AI agents in DevOps 
+2026-04-05 13:20:19 | SENT | eurodotster@gmail.com | olivier@datadog.com | Cmdop — monitoring parallels in AI agent infrastru
+2026-04-05 13:20:53 | SENT | imconfirmer@gmail.com | sanjay@lacework.com | Cmdop — addressing cloud compliance with secure ag
+2026-04-05 13:21:16 | SENT | anydatescom@gmail.com | matthew@cloudflare.com | Cmdop — advancing edge AI agent infrastructure for
+2026-04-05 13:21:38 | SENT | mark2much@gmail.com | tleighton@akamai.com | Cmdop — edge infra for AI agents aligned with Akam
+2026-04-05 13:22:19 | SENT | globalidorg@gmail.com | aneel@workday.com | Cmdop — aligning with Workday’s enterprise HR focu
+2026-04-05 13:22:54 | SENT | kupinetwork@gmail.com | george@fivetran.com | Cmdop — the AI agent infra aligning with Fivetran’
+2026-04-05 13:23:22 | SENT | hackandluck@gmail.com | zach@plaid.com | Cmdop — AI agent infra for banking APIs at Plaid s
+2026-04-05 13:23:49 | SENT | eurodotster@gmail.com | bill@servicenow.com | Cmdop — aligning with ServiceNow's workflow automa
+2026-04-05 13:24:25 | SENT | imconfirmer@gmail.com | zeb@clickup.com | Cmdop — aligning with ClickUp’s productivity platf
+2026-04-05 13:25:04 | SENT | anydatescom@gmail.com | howie@airtable.com | Cmdop — aligning with Airtable’s no-code DB focus
+2026-04-05 13:25:40 | SENT | mark2much@gmail.com | thomas@github.com | Cmdop — developer platform for AI agents, aligned 
+2026-04-05 13:26:01 | SENT | globalidorg@gmail.com | ian@mattermost.com | Cmdop — Open Source Chat Infrastructure for Matter
+2026-04-05 13:26:38 | SENT | kupinetwork@gmail.com | john@ghost.org | Cmdop — Open Source AI Agent Infrastructure for Gh
+2026-04-05 13:27:09 | SENT | hackandluck@gmail.com | brent@bigcommerce.com | Cmdop — SaaS infra for AI agents aligned with BigC
+2026-04-05 13:27:37 | SENT | eurodotster@gmail.com | emmanuel@bubble.io | Cmdop — AI agent infra aligned with Bubble’s no-co
+2026-04-05 13:28:07 | SENT | imconfirmer@gmail.com | wade@zapier.com | Cmdop — aligning with Zapier's automation API thes
+2026-04-05 13:28:37 | SENT | anydatescom@gmail.com | vijay@workato.com | Cmdop — addressing enterprise automation with AI a
+2026-04-05 13:29:17 | SENT | mark2much@gmail.com | peter@segment.com | Cmdop — AI Agents & Customer Data Synergy with Seg
+2026-04-05 13:29:43 | SENT | globalidorg@gmail.com | sameer@sendgrid.com | SendGrid — scaling AI agent infra with Cmdop
+2026-04-05 13:30:19 | SENT | kupinetwork@gmail.com | jeremy@mparticle.com | Cmdop — AI agent infra aligned with mParticle's CD
+2026-04-05 13:30:57 | SENT | hackandluck@gmail.com | support@gurock.com | TestRail — enabling scalable test management for A
+2026-04-05 13:31:38 | SENT | eurodotster@gmail.com | ritesh@browserstack.com | Cmdop — testing cloud infrastructure for AI agents
+2026-04-05 13:32:09 | SENT | imconfirmer@gmail.com | jeff@travis-ci.com | Cmdop — open source CI for AI agents at Travis CI
+2026-04-05 13:32:44 | SENT | anydatescom@gmail.com | joe@pulumi.com | Cmdop — AI agent infra aligned with Pulumi’s IaC t
+2026-04-05 13:33:05 | SENT | mark2much@gmail.com | kohsuke@cloudbees.com | Cmdop — aligning with Jenkins' automation server t
+2026-04-05 13:33:36 | SENT | globalidorg@gmail.com | armon@hashicorp.com | Cmdop — AI agent infra aligned with Terraform’s cl
+2026-04-05 13:34:09 | SENT | kupinetwork@gmail.com | brendan@microsoft.com | Cmdop — aligning with Kubernetes for cloud orchest
+2026-04-05 13:34:49 | SENT | hackandluck@gmail.com | neil@portainer.io | Portainer & Cmdop: Simplifying Container UI for AI
+2026-04-05 13:35:20 | SENT | eurodotster@gmail.com | scott@docker.com | Cmdop — aligning with Docker's containerization th
+2026-04-05 13:35:50 | SENT | imconfirmer@gmail.com | jonathan@openstack.org | Cmdop — AI agent infra for private cloud at OpenSt
+2026-04-05 13:36:21 | SENT | anydatescom@gmail.com | michael@ansible.com | Cmdop — aligning with Ansible’s agentless automati
+2026-04-05 13:36:59 | SENT | mark2much@gmail.com | charles@purestorage.com | Cmdop — addressing Pure Storage’s all-flash data n
+2026-04-05 13:37:38 | SENT | globalidorg@gmail.com | george@netapp.com | Cmdop — addressing hybrid cloud agent infra for Ne
+2026-04-05 13:38:02 | SENT | kupinetwork@gmail.com | drew@dropbox.com | Cmdop — addressing Dropbox's cloud storage gaps
+2026-04-05 13:38:34 | SENT | hackandluck@gmail.com | larry@oracle.com | Cmdop — AI agent infra aligned with Oracle’s cloud
+2026-04-05 13:38:58 | SENT | eurodotster@gmail.com | aaron@box.com | Cmdop — aligning with Box's Content Cloud for AI a
+2026-04-05 13:39:35 | SENT | imconfirmer@gmail.com | arvind@ibm.com | Cmdop — AI Agent Infrastructure for Hybrid Cloud a
+2026-04-05 13:39:56 | SENT | anydatescom@gmail.com | michael@dell.com | Dell — enterprise AI agent infrastructure opportun
+2026-04-05 13:40:32 | SENT | mark2much@gmail.com | andre@pingidentity.com | Cmdop — enterprise AI agents aligned with Ping Ide
+2026-04-05 13:40:58 | SENT | globalidorg@gmail.com | todd@okta.com | Cmdop — AI agent infra aligned with Identity Cloud
+2026-04-05 13:41:35 | SENT | kupinetwork@gmail.com | eugenio@auth0.com | Auth0 & Cmdop — developer identity in AI agent inf
+2026-04-05 13:41:56 | SENT | hackandluck@gmail.com | mark@sailpoint.com | Cmdop — enhancing identity governance with AI agen
+2026-04-05 13:42:26 | SENT | eurodotster@gmail.com | yaki@varonis.com | Cmdop — aligning with Varonis' data security focus
+2026-04-05 13:42:58 | SENT | imconfirmer@gmail.com | bipul@rubrik.com | Cmdop — aligning with Rubrik’s Zero Trust Data Sec
+2026-04-05 13:43:20 | SENT | anydatescom@gmail.com | sanjay@cohesity.com | Cmdop — AI agent infra aligned with Cohesity’s dat
+2026-04-05 13:43:54 | SENT | mark2much@gmail.com | sanjay@commvault.com | Cmdop — aligning with Commvault’s Intelligent Data
+2026-04-05 13:44:29 | SENT | globalidorg@gmail.com | greg@veritas.com | Cmdop — AI Agents for Multi-Cloud Data Ops at Veri
+2026-04-05 13:44:57 | SENT | kupinetwork@gmail.com | rob@cloudera.com | Cmdop — enterprise-ready AI agent infra for Cloude
+2026-04-05 13:45:34 | SENT | hackandluck@gmail.com | steve@teradata.com | Cmdop — connecting AI agents with Teradata's data 
+2026-04-05 13:46:11 | SENT | eurodotster@gmail.com | ofer@redis.com | Redis — real-time data infra for AI agents
+2026-04-05 13:46:41 | SENT | imconfirmer@gmail.com | emil@neo4j.com | Cmdop — AI Agent Infrastructure aligned with Neo4j
+2026-04-05 13:47:08 | SENT | anydatescom@gmail.com | matt@couchbase.com | Cmdop — AI agent infra for Couchbase’s NoSQL cloud
+2026-04-05 13:47:41 | SENT | mark2much@gmail.com | spencer@cockroachlabs.com | Cmdop — AI Agent Infrastructure for Cloud-Native S

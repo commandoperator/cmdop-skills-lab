@@ -68,8 +68,8 @@ testpaths = ["tests"]
 asyncio_mode = "auto"
 
 [tool.uv.sources]
-cmdop-skill = { path = "/Users/markinmatrix/Documents/htdocs/@CARAPIS/encar_parser_new/@projects/cmdop/projects/software/cmdop_sdk/python/cmdop_skill", editable = true }
-cmdop = { path = "/Users/markinmatrix/Documents/htdocs/@CARAPIS/encar_parser_new/@projects/cmdop/projects/software/cmdop_sdk/python/cmdop", editable = true }
+cmdop-skill = { path = "/Users/markinmatrix/workspace/@projects/cmdop/projects/software/cmdop_sdk/python/cmdop_skill", editable = true }
+cmdop = { path = "/Users/markinmatrix/workspace/@projects/cmdop/projects/software/cmdop_sdk/python/cmdop", editable = true }
 
 [dependency-groups]
 dev = [

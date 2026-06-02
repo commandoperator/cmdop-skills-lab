@@ -80,6 +80,37 @@ stats: ## Show email statistics
 	python run.py stats
 
 # ---------------------------------------------------------------------------
+# Cron (bounce + reply scan + Telegram notifications)
+# ---------------------------------------------------------------------------
+
+CRON_SCRIPT := $(CURDIR)/scripts/bounce_cron.py
+CRON_PYTHONPATH := $(CURDIR)/src
+CRON_LOG := $(CURDIR)/data/logs/bounce-cron.log
+CRON_PYTHON := /opt/homebrew/opt/python@3.10/libexec/bin/python3
+CRON_INTERVAL := 47 * * * *
+
+cron-install: ## Install hourly bounce+reply scan to crontab
+	@mkdir -p $(CURDIR)/data/logs
+	@(crontab -l 2>/dev/null | grep -v 'bounce_cron.py'; \
+	  echo "# llm-email: bounce + reply scan (hourly)"; \
+	  echo "$(CRON_INTERVAL) cd $(CURDIR) && PYTHONPATH=$(CRON_PYTHONPATH) PYTHONUNBUFFERED=1 $(CRON_PYTHON) -u $(CRON_SCRIPT) --days 1 >> $(CRON_LOG) 2>&1") | crontab -
+	@echo "Cron installed. Log: $(CRON_LOG)"
+	@echo "Run 'make cron-status' to verify."
+
+cron-remove: ## Remove bounce+reply scan from crontab
+	@crontab -l 2>/dev/null | grep -v 'bounce_cron.py' | grep -v '# llm-email' | crontab - 2>/dev/null || true
+	@echo "Cron removed."
+
+cron-status: ## Show llm-email cron entries
+	@crontab -l 2>/dev/null | grep -A1 'llm-email' || echo "No llm-email cron entries."
+
+cron-log: ## Tail the bounce/reply scan log
+	@tail -30 $(CRON_LOG) 2>/dev/null || echo "No log yet. Run 'make cron-install' first."
+
+cron-run: ## Run bounce+reply scan now (manually)
+	PYTHONPATH=$(CRON_PYTHONPATH) $(CRON_PYTHON) $(CRON_SCRIPT) --days 1
+
+# ---------------------------------------------------------------------------
 # Release
 # ---------------------------------------------------------------------------
 

@@ -1,0 +1,402 @@
+[
+  {
+    "email": "aigirlqz@gmail.com",
+    "username": "miaoxworld",
+    "name": "miaoxworld",
+    "subject": "OpenClawInstaller improvements for your package management",
+    "message": "Hey Miaox,\n\nNoticed your work on OpenClawInstaller—really like how you handle multi-arch support; I’ve been exploring some similar patterns for cross-platform installers.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "mjxnarco@pku.edu.cn",
+    "username": "Narcooo",
+    "name": "Junxian Ma",
+    "subject": "Narcooo/inkos and real-time data streaming ideas",
+    "message": "Hey Junxian,\n\nI noticed your Narcooo/inkos repo and really like the approach you're taking with in-memory data processing, especially how you handle concurrency.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "davepoon@erlango.com",
+    "username": "davepoon",
+    "name": "Dave Poon",
+    "subject": "Thoughts on buildwithclaude's integration approach?",
+    "message": "Hey Dave,\n\nI was digging into buildwithclaude and noticed you’re leveraging Claude’s API for some interesting workflows. Curious about how you handle token management and latency optimizations in that setup.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "384709054@qq.com",
+    "username": "mengjian-github",
+    "name": "孟健",
+    "subject": "OpenClaw101 and your take on lightweight async networking",
+    "message": "Hi 孟健,\n\nI especially liked how your openclaw101 repo simplifies socket handling with async/await — it’s a clean approach that I’ve been experimenting with for low-latency apps.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "mergisi@gmail.com",
+    "username": "mergisi",
+    "name": "Mustafa",
+    "subject": "Exploring agent orchestration in awesome-openclaw-agents repo",
+    "message": "Hey Mustafa,\n\nNoticed the way you handle multi-agent workflows in your openclaw-agents repo, especially how you manage agent communication and state tracking — really clean implementation.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "s.badrinarayanan791@gmail.com",
+    "username": "badrisnarayanan",
+    "name": "Badri Narayanan S",
+    "subject": "Thoughts on your antigravity-claude-proxy proxy design?",
+    "message": "Hey Badri,\n\nI noticed your work on the antigravity-claude-proxy repo—especially how you handle request relaying with minimal latency. Curious about your approach to managing concurrency with asyncio; looks like a clean setup.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "xun900207@gmail.com",
+    "username": "KimYx0207",
+    "name": "KimYx0207",
+    "subject": "Exploring Claude-Code-x-OpenClaw-Guide-Zh for multilingual code insights",
+    "message": "Hey KimYx0207,\n\nNoticed your Claude-Code-x-OpenClaw-Guide-Zh repo — loving the multilingual approach, especially how you handle Chinese comments alongside code snippets. Curious about how you manage language-specific parsing or tokenization in those docs.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "asaharan@onemindservices.com",
+    "username": "abhi1693",
+    "name": "Abhimanyu Saharan",
+    "subject": "OpenClaw-Mission-Control's approach to distributed task management",
+    "message": "Hey Abhimanyu,\n\nI noticed your openclaw-mission-control repo handles distributed mission execution with some clever state management. I'm curious how you handle fault tolerance across nodes — looks like a tricky problem.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "250881478@qq.com",
+    "username": "xpf0000",
+    "name": "徐鹏飞",
+    "subject": "Exploring FlyEnv’s widget handling in your repo",
+    "message": "Hey 徐鹏飞,\n\nNoticed your FlyEnv project, especially how you manage environment isolation — the widget integration part caught my eye since I’ve been experimenting with similar sandboxing techniques.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "anyangsen@hotmail.com",
+    "username": "AlexAnys",
+    "name": "Alex AN",
+    "subject": "Exploring your openclaw use cases repo for potential sync",
+    "message": "Hey Alex,\n\nI checked out your 'awesome-openclaw-usecases-zh' repo — love how you've cataloged diverse Claw use cases, especially the integration examples. Curious if you've considered automating some of those workflows with a custom CLI or script?\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "wlk760541031@gmail.com",
+    "username": "wanikua",
+    "name": "boluobobo",
+    "subject": "Thoughts on your wanikua/danghuangshang project’s async handling",
+    "message": "Hey boluobobo,\n\nNoticed your use of async/await in wanikua/danghuangshang — been experimenting with similar patterns for better concurrency in my own projects. Curious how you handle error propagation there.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "wwbin2017@163.com",
+    "username": "wwbin2017",
+    "name": "wwbin2017",
+    "subject": "Exploring bailing’s approach to concurrency handling",
+    "message": "Hey wwbin2017,\n\nNoticed your 'bailing' repo and really appreciate how you’ve tackled thread safety with that custom lock-free queue. Curious about your thought process on avoiding livelocks under high contention.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "hst97@qq.com",
+    "username": "heshengtao",
+    "name": "ailm32442型机器人",
+    "subject": "Thoughts on your super-agent-party for multi-agent orchestration",
+    "message": "Hey ailm32442型机器人,\n\nI noticed your `super-agent-party` repo and really dig the way you handle agent coordination with that event-driven approach. Curious if you've considered integrating WebSocket communication for more real-time updates?\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "zeusfunk133@gmail.com",
+    "username": "UniRound-Tec",
+    "name": "UniRound",
+    "subject": "Exploring concurrency patterns in UniRound-Tec/Aurogen",
+    "message": "Hey UniRound,\n\nNoticed your work on UniRound-Tec/Aurogen, particularly how you handle asynchronous data streams with Rust. I'm curious about your approach to managing backpressure in that setup.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "398766201@163.com",
+    "username": "Xiangyu-CAS",
+    "name": "ZOOZOO",
+    "subject": "Re: Xiangyu-CAS/xiaohongshu-ops-skill and real-time ops management",
+    "message": "Hey ZOOZOO,\n\nNoticed your work on the XiaoHongShu ops skills repo — the way you handle distributed task scheduling with those custom metrics is pretty slick. I’m curious about how you’ve optimized the latency for high-throughput scenarios.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "leadbully@gmail.com",
+    "username": "crshdn",
+    "name": "Christopher Charles",
+    "subject": "Thoughts on crshdn/mission-control's event-driven architecture?",
+    "message": "Hey Christopher,\n\nI noticed crshdn/mission-control uses a neat event-sourcing pattern to handle state changes. Curious how you manage consistency across distributed agents, especially with your background in ML/AI.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "soimy@163.com",
+    "username": "soimy",
+    "name": "Shen Yiming",
+    "subject": "Exploring OpenClaw-channel-Dingtalk for better chat integration",
+    "message": "Hey Shen,\n\nNoticed your work on soimy/openclaw-channel-dingtalk — I like how you’ve handled the Dingtalk API interactions, especially the custom message handling. Curious if you’ve experimented with async processing there?\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "i@junho.io",
+    "username": "junhoyeo",
+    "name": "Junho Yeo",
+    "subject": "Exploring tokscale's scaling strategies?",
+    "message": "Hey Junho,\n\nI looked into your tokscale repo and really like how you handle distributed scheduling — the way you manage task dependencies is slick. Curious about your approach to fault tolerance in that setup.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "zacon365@gmail.com",
+    "username": "openakita",
+    "name": "OpenAkita",
+    "subject": "Exploring openakita/openakita's real-time sync approach",
+    "message": "Hey OpenAkita,\n\nNoticed your work on openakita/openakita, especially the way you handle data synchronization with CRDTs — looks like a solid approach for collaborative apps.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "kevin.luo.sl@gmail.com",
+    "username": "kevinluosl",
+    "name": "Kevin Luo",
+    "subject": "Deepbot's Discord integration looks slick, Kevin",
+    "message": "Hey Kevin,\n\nNoticed your `deepbot` repo — love how you handle the command parsing with async, especially the way you manage state across channels. Curious if you’ve thought about adding WebSocket support for real-time updates?\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "egg358358@gmail.com",
+    "username": "runkids",
+    "name": "Willie",
+    "subject": "Thoughts on runkids/skillshare’s async handling?",
+    "message": "Hey Willie,\n\nNoticed your work on runkids/skillshare — really digging how you’ve structured the async workflows with Python. Curious if you’ve explored any specific patterns for error handling or retries that you found effective.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "zoujincool@gmail.com",
+    "username": "wuji-labs",
+    "name": "无极WUJI",
+    "subject": "Exploring concurrency patterns in wuji-labs/nopua",
+    "message": "Hey 无极,\n\nNoticed your work on wuji-labs/nopua, especially the async handling in the core logic—really clean implementation. Curious about your approach to state management within those async flows.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "38004547@qq.com",
+    "username": "dongsheng123132",
+    "name": "dongsheng123132",
+    "subject": "Exploring u-claw's approach to custom allocators",
+    "message": "Hey dongsheng123132,\n\nI noticed your u-claw project and really like how you’ve implemented a lightweight, lock-free memory allocator. The way you handle thread-local caches is pretty slick and could be useful for some high-performance systems I’m working on.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "mithungowda.b7411@gmail.com",
+    "username": "mithun50",
+    "name": "Mithun Gowda B",
+    "subject": "Exploring OpenClaw-Termux for CLI automation in Python",
+    "message": "Hey Mithun,\n\nNoticed your openclaw-termux repo—really digging the way you’ve integrated Python scripting with terminal automation. Curious about how you handle concurrency in your scripts, especially with Pandas data flows.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "j14458ed@gmail.com",
+    "username": "AidanPark",
+    "name": "Aidan Park",
+    "subject": "Thoughts on OpenClaw-Android’s approach to low-level Android security",
+    "message": "Hey Aidan,\n\nNoticed your work on OpenClaw-Android, especially the way you handle root detection evasion — really clean implementation. Curious about your approach to hooking into the Android framework without causing stability issues.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "zlisreallyli@outlook.com",
+    "username": "geekjourneyx",
+    "name": "geekjourney",
+    "subject": "Re: geekjourneyx/md2wechat-skill and its approach to WeChat AI tools",
+    "message": "Hey geekjourney,\n\nI noticed your md2wechat-skill repo and really dig the way you’re translating markdown into WeChat-compatible formats. Curious if you’ve explored integrating this with WeChat mini-programs or other AI-driven features—looks like a solid base for that.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "chao.liu.zevorn@gmail.com",
+    "username": "zevorn",
+    "name": "Zevorn(Chao Liu)",
+    "subject": "Exploring RT-Claw's approach to HPC emulation accuracy",
+    "message": "Hey Chao,\n\nI noticed your RT-Claw repo and really appreciate how you handle real-time constraints in HPC emulation—particularly the way you manage event synchronization with the custom scheduler. Curious about how you see this scaling for multi-node setups.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "win4r@outlook.com",
+    "username": "win4r",
+    "name": "Chao Qin",
+    "subject": "Exploring memory-lancedb-pro's data handling quirks",
+    "message": "Hey Chao,\n\nI was digging into memory-lancedb-pro and noticed your approach to persistent memory management — particularly how you handle data consistency across sessions. Curious about the challenges you faced with concurrency control there.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "chrysb@gmail.com",
+    "username": "chrysb",
+    "name": "Chrys Bader",
+    "subject": "Exploring concurrency in chrysb/alphaclaw's task scheduling",
+    "message": "Hey Chrys,\n\nNoticed your work on alphaclaw, especially the custom task scheduler implementation—really clean approach to concurrency control. I’ve been experimenting with similar patterns in Go and would love to hear about the challenges you faced with synchronization and scaling.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "contact@samuel-berthe.fr",
+    "username": "samber",
+    "name": "Samuel Berthe",
+    "subject": "Thoughts on your cc-skills-golang repo for Go skills tracking",
+    "message": "Hey Samuel,\n\nI really like how your cc-skills-golang repo structures skill data with clear types and aims for extensibility. I’ve been experimenting with similar patterns for a skills matrix in Go, especially around dynamic skill tiers and real-time updates.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "steve_green@qq.com",
+    "username": "steve02081504",
+    "name": "steve green",
+    "subject": "Thoughts on Fount’s approach to data flow management?",
+    "message": "Hey Steve,\n\nI noticed your 'fount' repo and really dig how you handle reactive data streams—especially the way you leverage observables for dynamic content updates. Curious about your thoughts on managing backpressure in complex flows.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "opensource@dalisoft.uz",
+    "username": "dalisoft",
+    "name": "Davlatjon Sh",
+    "subject": "Nanoexpress async handling for high throughput?",
+    "message": "Hey Davlatjon,\n\nNoticed your work on @nanoexpress, especially how you optimize for non-blocking I/O—really clean async patterns. Curious how you handle backpressure under heavy load?\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "thysrael@163.com",
+    "username": "Thysrael",
+    "name": "Thysrael",
+    "subject": "Exploring Horizon's real-time sync challenges, Thysrael",
+    "message": "Hey Thysrael,\n\nI noticed Horizon's approach to decentralized state management and the custom conflict resolution logic you implemented—it's pretty slick. Curious how you handle edge cases around network partitions?\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "hello@evolink.ai",
+    "username": "EvoLinkAI",
+    "name": "EvolinkAI",
+    "subject": "Exploring cost-efficient API patterns with EvoLinkAI’s usecases",
+    "message": "Hey EvolinkAI,\n\nI took a look at your 'awesome-openclaw-usecases-moltbook' repo — love how you’re structuring multi-model API integrations for cost savings. Curious about how you handle model switching dynamically across those 100+ APIs, especially with GPT-5.2 and Claude in the mix.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "vanessadepraute@gmail.com",
+    "username": "vava-nessa",
+    "name": "Vanessa Depraute",
+    "subject": "Exploring AI-driven coding models in vava-nessa/free-coding-models",
+    "message": "Hey Vanessa,\n\nNoticed your work on the free-coding-models repo; I like how you’re integrating AI to generate code snippets. Curious how you handle model fine-tuning or data curation for those projects.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "cjackhwang@qq.com",
+    "username": "CJackHwang",
+    "name": "CJACK.",
+    "subject": "CJackHwang/ds2api: curious about your data serialization approach",
+    "message": "Hey CJACK,\n\nNoticed your ds2api repo — really liked how you handled the custom serialization for your project. Curious if you’ve explored using serde for more complex data types?\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "iniwaper@gmail.com",
+    "username": "iniwap",
+    "name": "iniwap",
+    "subject": "Exploring AIWriteX’s approach to text generation",
+    "message": "Hey iniwap,\n\nI looked into your AIWriteX repo and really like how you've integrated custom tokenization for better generation control. Curious about your thoughts on optimizing the decoding process for faster output without sacrificing quality.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "circle@trueai.org",
+    "username": "trueai-org",
+    "name": "trueai-org",
+    "subject": "Re: trueai-org/midjourney-proxy’s image caching approach?",
+    "message": "Hey circle@trueai.org,\n\nNoticed your midjourney-proxy repo — I dig the way you’re handling image caching and proxying, especially how you’ve optimized for latency. Curious if you’ve played with any edge caching strategies to scale further?\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "ttzhsz@163.com",
+    "username": "sunnoy",
+    "name": "Hui Liu",
+    "subject": "Exploring openclaw-plugin-wecom’s WebSocket handling",
+    "message": "Hey Hui,\n\nI noticed your work on sunnoy/openclaw-plugin-wecom, especially how you manage WebSocket reconnections—super clean implementation. Curious if you're exploring any async handling improvements there?\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "voocel@gmail.com",
+    "username": "voocel",
+    "name": "voocel",
+    "subject": "Quick thought on openclaw-mini's concurrency model",
+    "message": "Hey voocel,\n\nI noticed your openclaw-mini repo handles some interesting async patterns—particularly how you manage lightweight concurrency. Curious about your approach to balancing simplicity and efficiency in those workflows.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "topaloglutugcan@gmail.com",
+    "username": "tugcantopaloglu",
+    "name": "Tuğcan Topaloğlu",
+    "subject": "OpenClaw-dashboard for cyber defense automation?",
+    "message": "Hey Tuğcan,\n\nI noticed your openclaw-dashboard repo and really appreciate how you've integrated real-time data visualization into cybersecurity workflows. The way you handle the event streaming is pretty slick.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "mosaxiv@gmail.com",
+    "username": "mosaxiv",
+    "name": "mosa",
+    "subject": "Exploring concurrency patterns in clawlet’s async handling",
+    "message": "Hey Mosa,\n\nI noticed clawlet’s approach to lightweight concurrency using async/await is pretty slick, especially how you handle task cancellation and error propagation. Curious if you’ve considered integrating Tokio for more fine-grained control?\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "ope@trysixth.com",
+    "username": "SixHq",
+    "name": "Sixth",
+    "subject": "Thoughts on SixHq/Overture’s approach to real-time exploit detection",
+    "message": "Hey Sixth,\n\nI noticed in your SixHq/Overture repo that you’re using a custom anomaly detection model to flag suspicious activity — I’ve been experimenting with similar real-time monitoring techniques for API security.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "sarozarena@gmail.com",
+    "username": "sachaa",
+    "name": "Sacha",
+    "subject": "Exploring openbrowserclaw’s approach to browser automation",
+    "message": "Hey Sacha,\n\nNoticed your openbrowserclaw repo—really like how you’ve implemented custom browser control with minimal dependencies. Curious if you’ve considered integrating any async operations for better performance?\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "651342556@qq.com",
+    "username": "CN-Syndra",
+    "name": "SteamPig",
+    "subject": "Re: ClawLink's approach to real-time data flow",
+    "message": "Hey SteamPig,\n\nNoticed your work on CN-Syndra's ClawLink—particularly intrigued by how you handle concurrency with your custom queue implementation. I’ve been experimenting with similar patterns for low-latency apps.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "itpkcn@gmail.com",
+    "username": "xintaofei",
+    "name": "XinTaoFei",
+    "subject": "Thoughts on your codeg CLI for pattern matching",
+    "message": "Hey XinTaoFei,\n\nSpotted your codeg repo and really like how you’ve streamlined regex pattern matching into a CLI tool — the way you handle the command parsing and output formatting looks clean and practical.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "741267111@qq.com",
+    "username": "jau123",
+    "name": "jau123",
+    "subject": "Thoughts on MeiGen-AI-Design-MCP's generative approach?",
+    "message": "Hey jau123,\n\nI really dig the way MeiGen-AI-Design-MCP handles multi-channel content creation — especially how you integrated the MCP for cohesive outputs. Curious about your thoughts on scaling that architecture.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "claw@boringdystopia.ai",
+    "username": "alvinreal",
+    "name": "alvinreal",
+    "subject": "Exploring OpenClaw for your next project?",
+    "message": "Hey Alvin,\n\nI noticed your awesome-openclaw repo — the way you handle concurrency with Rust's async features is pretty slick. Curious if you've run into any limitations with the current design?\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "302787376@qq.com",
+    "username": "GCWing",
+    "name": "CWing",
+    "subject": "Thoughts on BitFun’s approach to in-browser game logic",
+    "message": "Hey CWing,\n\nNoticed your BitFun repo uses some clever encoding for game states—I like how you’re handling state persistence without heavy dependencies.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  },
+  {
+    "email": "riba2534@qq.com",
+    "username": "riba2534",
+    "name": "riba2534",
+    "subject": "Exploring your 'happyclaw' repo’s concurrency model",
+    "message": "Hey riba2534,\n\nI really dig how 'happyclaw' tackles asynchronous event handling with that custom thread pool—looks like you’ve optimized for low latency, which is tough to get right. Curious about your approach to backpressure management in that setup.\n\nWe're building Cmdop — a new execution layer for agentic and distributed systems. It introduces a persistent session-object architecture where execution state is a first-class primitive, not an external concern handled by queues, logs, or orchestration glue.\n\nInstead of stateless RPC-style control, Cmdop allows execution to persist, migrate, resume, and be inspected across machines — locally or remotely. This makes it possible to build agentic workflows and distributed automation that are long-running, stateful, and deterministic by design.\n\nWe're looking for contributors and early adopters who understand the challenges of building reliable agent systems.\n\nIf this resonates, I'd love to hear your thoughts or hop on a quick call.\n\nBest,\nMark\nFounder, Cmdop\nhttps://cmdop.com\n\n---\nIf you don't want to hear from me, just reply \"unsubscribe\" and I won't email again.",
+    "status": "generated"
+  }
+]

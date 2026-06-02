@@ -1,0 +1,67 @@
+{
+  "settings": {
+    "min_delay": 20,
+    "max_delay": 45,
+    "batch_size": 12,
+    "batch_pause_min": 60,
+    "batch_pause_max": 120,
+    "max_accounts_per_ip": 3
+  },
+  "warmup_schedule": {
+    "day_1": 50,
+    "day_2": 100,
+    "day_3": 200,
+    "day_4": 300,
+    "day_5_plus": 400
+  },
+  "accounts": [
+    {
+      "email": "markolofsen@gmail.com",
+      "enabled": true,
+      "daily_limit": 300,
+      "hourly_limit": 20,
+      "warmup_start_date": null,
+      "notes": ""
+    },
+    {
+      "email": "mark2much@gmail.com",
+      "enabled": true,
+      "daily_limit": 300,
+      "hourly_limit": 20,
+      "warmup_start_date": null,
+      "notes": ""
+    },
+    {
+      "email": "igor.lesin@gmail.com",
+      "enabled": true,
+      "daily_limit": 300,
+      "hourly_limit": 20,
+      "warmup_start_date": null,
+      "notes": ""
+    },
+    {
+      "email": "eurodotster@gmail.com",
+      "enabled": true,
+      "daily_limit": 300,
+      "hourly_limit": 20,
+      "warmup_start_date": null,
+      "notes": ""
+    },
+    {
+      "email": "anydatescom@gmail.com",
+      "enabled": true,
+      "daily_limit": 300,
+      "hourly_limit": 20,
+      "warmup_start_date": null,
+      "notes": ""
+    },
+    {
+      "email": "imconfirmer@gmail.com",
+      "enabled": true,
+      "daily_limit": 300,
+      "hourly_limit": 20,
+      "warmup_start_date": null,
+      "notes": ""
+    }
+  ]
+}

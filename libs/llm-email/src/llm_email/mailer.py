@@ -11,6 +11,11 @@ from llm_email.config import (
 )
 from llm_email.logger import log
 from llm_email.models import SentEmail
+from llm_email.types import (
+    EmailAction, EmailStatus,
+    SendResult, AccountInfo, AccountsResult, HealthResult,
+    StatsResult, StatusEntry, StatusResult,
+)
 
 
 async def send_email(
@@ -21,8 +26,8 @@ async def send_email(
     cc: str = "",
     bcc: str = "",
     draft_only: bool = False,
-) -> dict:
-    """Compose and send (or draft) an email via Mail.app. Returns result dict."""
+) -> SendResult:
+    """Compose and send (or draft) an email via Mail.app."""
     es = escape_applescript
     visible = "true" if draft_only else "false"
 
@@ -66,11 +71,11 @@ async def send_email(
     lines.append('end tell')
 
     script = "\n".join(lines)
-    action = "draft" if draft_only else "send"
+    action = EmailAction.DRAFT if draft_only else EmailAction.SEND
     log.info("%s email to=%s subject=%r", action, to, subject)
     ok, output = run_osascript(script)
 
-    status = "ok" if ok else "error"
+    status = EmailStatus.OK if ok else EmailStatus.ERROR
     if not ok:
         log.error("%s failed: %s", action, output)
 
@@ -87,11 +92,11 @@ async def send_email(
     )
 
     if ok:
-        return {"ok": True, "action": action, "to": to, "subject": subject}
-    return {"ok": False, "action": action, "error": output}
+        return SendResult(ok=True, action=action, to=to, subject=subject)
+    return SendResult(ok=False, action=action, to=to, error=output)
 
 
-async def list_accounts() -> dict:
+async def list_accounts() -> AccountsResult:
     """List available Mail.app email accounts."""
     script = '''
 tell application "Mail"
@@ -111,66 +116,66 @@ end tell
 '''
     ok, output = run_osascript(script, timeout=OSASCRIPT_ACCOUNTS_TIMEOUT)
     if not ok:
-        return {"ok": False, "error": output}
+        return AccountsResult(ok=False, error=output)
 
-    accounts = []
+    accounts: list[AccountInfo] = []
     for i, line in enumerate(output.strip().split("\n")):
         line = line.strip()
         if not line:
             continue
         if "|" in line:
             name, email = line.split("|", 1)
-            accounts.append({"name": name.strip(), "email": email.strip(), "default": i == 0})
+            accounts.append(AccountInfo(name=name.strip(), email=email.strip(), default=i == 0))
         elif "@" in line:
-            accounts.append({"email": line, "default": i == 0})
+            accounts.append(AccountInfo(name="", email=line, default=i == 0))
 
-    return {"ok": True, "accounts": accounts}
+    return AccountsResult(ok=True, accounts=accounts)
 
 
-def check_health() -> dict:
+def check_health() -> HealthResult:
     """Check if Mail.app is running and accessible."""
     script = 'tell application "System Events" to return exists application process "Mail"'
     ok, output = run_osascript(script, timeout=OSASCRIPT_HEALTH_TIMEOUT)
     if not ok:
-        return {"ok": False, "error": output}
+        return HealthResult(ok=False, error=output)
 
     running = output.strip() == "true"
-    return {"ok": True, "mail_running": running}
+    return HealthResult(ok=True, mail_running=running)
 
 
-async def show_status(limit: int = STATUS_DEFAULT_LIMIT) -> dict:
+async def show_status(limit: int = STATUS_DEFAULT_LIMIT) -> StatusResult:
     """Show recent sent email log from DB."""
     total = await SentEmail.all().count()
     recent_qs = await SentEmail.all().order_by("-sent_at").limit(limit).values(
         "to_addr", "subject", "from_account", "action", "status", "sent_at",
     )
     recent = [
-        {
-            "to": r["to_addr"],
-            "subject": r["subject"],
-            "from": r["from_account"],
-            "action": r["action"],
-            "status": r["status"],
-            "sent_at": r["sent_at"].isoformat() if r["sent_at"] else "",
-        }
+        StatusEntry(
+            to=r["to_addr"],
+            subject=r["subject"],
+            from_account=r["from_account"],
+            action=r["action"],
+            status=r["status"],
+            sent_at=r["sent_at"].isoformat() if r["sent_at"] else "",
+        )
         for r in recent_qs
     ]
-    return {"ok": True, "total_sent": total, "recent": recent}
+    return StatusResult(ok=True, total_sent=total, recent=recent)
 
 
-async def show_stats() -> dict:
+async def show_stats() -> StatsResult:
     """Extended statistics: daily/weekly/total counts, top recipients."""
     now = datetime.now(timezone.utc)
     day_ago = now - timedelta(days=1)
     week_ago = now - timedelta(days=7)
 
-    total = await SentEmail.filter(status="ok").count()
-    today_count = await SentEmail.filter(status="ok", sent_at__gte=day_ago).count()
-    week_count = await SentEmail.filter(status="ok", sent_at__gte=week_ago).count()
-    error_count = await SentEmail.filter(status="error").count()
+    total = await SentEmail.filter(status=EmailStatus.OK).count()
+    today_count = await SentEmail.filter(status=EmailStatus.OK, sent_at__gte=day_ago).count()
+    week_count = await SentEmail.filter(status=EmailStatus.OK, sent_at__gte=week_ago).count()
+    error_count = await SentEmail.filter(status=EmailStatus.ERROR).count()
 
     top_recipients = (
-        await SentEmail.filter(status="ok")
+        await SentEmail.filter(status=EmailStatus.OK)
         .annotate(cnt=Count("id"))
         .group_by("to_addr")
         .order_by("-cnt")
@@ -178,16 +183,16 @@ async def show_stats() -> dict:
         .values("to_addr", "cnt")
     )
 
-    return {
-        "ok": True,
-        "total_sent": total,
-        "sent_today": today_count,
-        "sent_this_week": week_count,
-        "total_errors": error_count,
-        "top_recipients": [
+    return StatsResult(
+        ok=True,
+        total_sent=total,
+        sent_today=today_count,
+        sent_this_week=week_count,
+        total_errors=error_count,
+        top_recipients=[
             {"to": r["to_addr"], "count": r["cnt"]} for r in top_recipients
         ],
-    }
+    )
 
 
 async def check_duplicate(to: str, subject: str, hours: int = DEDUP_HOURS) -> bool:
@@ -196,7 +201,7 @@ async def check_duplicate(to: str, subject: str, hours: int = DEDUP_HOURS) -> bo
     return await SentEmail.filter(
         to_addr=to,
         subject=subject,
-        status="ok",
-        action="send",
+        status=EmailStatus.OK,
+        action=EmailAction.SEND,
         sent_at__gte=cutoff,
     ).exists()
