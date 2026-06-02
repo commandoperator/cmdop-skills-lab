@@ -40,7 +40,13 @@ build/
 # Temporary files
 *.log
 *.tmp
-.env.local
+
+# Secrets — never commit real .env (keep .env.example/.sample tracked)
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
 
 # Others
 @*
